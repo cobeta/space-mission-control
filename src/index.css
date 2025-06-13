@@ -1,0 +1,19 @@
+:root {
+  /* Dark mode colors */
+  --bg-color: #121212;
+  --surface-color: #1e1e1e;
+  --text-color: #e0e0e0;
+  --muted-text: #a0a0a0;
+  --accent-color: #2196f3;   
+  --accent-hover: #1976d2;
+  --border-color: #333;
+  --input-bg: #1e1e1e;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 1rem;
+}

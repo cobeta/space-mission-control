@@ -1,0 +1,9 @@
+.MissionCard {
+  display: flex;
+  align-items: center;
+}
+
+.MissionCard-data {
+  flex: 1;
+  margin-right: 1rem;
+}
